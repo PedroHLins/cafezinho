@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/controller/ProdutoController.java" afterDir="false" />
+    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="Add construtores, getters, setters e polimorfismo.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/controller/ProdutoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JhullyKF&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PedroHLins/cafezinho.git&quot;,
+    &quot;accountId&quot;: &quot;9777b0c7-d749-481b-a50e-fa952811aa4b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2xONpgZvhrluNNfqfXIrp9kKpNT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,6 +69,15 @@
       <option name="presentableId" value="Default" />
       <updated>1747805346636</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add construtores, getters, setters e polimorfismo.">
+      <option name="closed" value="true" />
+      <created>1747962097815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747962097815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add construtores, getters, setters e polimorfismo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add construtores, getters, setters e polimorfismo." />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package br.edu.up.cs.cafe.model.entidades;
 
-public abstract class Funcionario extends Pessoa{
+public class Funcionario extends Pessoa{
     private int id_Funcionario;
     private String cargo;
 

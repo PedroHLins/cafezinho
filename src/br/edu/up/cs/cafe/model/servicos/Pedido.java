@@ -39,12 +39,6 @@ public class Pedido {
     public void addProdutos(ItemPedido item){
         itens.add(item);
     }
-    public void listarItens(){
-        for(ItemPedido item : itens){
-            System.out.println("Item: " + item.getProduto().getNome() +
-                    ", quantidade: " + item.getQuantidade() +
-                    ", valor unitário: " + item.getProduto().getPreco());
-        }
-    }
+
 
 }

@@ -1,10 +1,11 @@
 package br.edu.up.cs.cafe.model.entidades;
 
-public class Cliente {
+public class Cliente extends Pessoa{
     private int id_Cliente;
     private String email;
 
-    public Cliente(int id_Cliente, String email){
+    public Cliente(int id_Cliente, String email, String cpf, String nome, String senha){
+        super(cpf, nome, "Mudar@123");
         this.id_Cliente = id_Cliente;
         this.email = email;
     }
@@ -23,5 +24,11 @@ public class Cliente {
 
     public void setEmail(String email){
         this.email = email;
+    }
+
+    @Override
+    public void exibirDados() {
+        System.out.println("Id do cliente: " + getId_Cliente() + ", nome: " + getNome() +
+                ", cpf: " + getCpf() + ", email: " + getEmail());
     }
 }
