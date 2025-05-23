@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="Add construtores, getters, setters e polimorfismo.">
+    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="Desenvolvimento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/controller/ProdutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/servicos/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewPedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747962097815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Desenvolvimento">
+      <option name="closed" value="true" />
+      <created>1747970613526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747970613526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add construtores, getters, setters e polimorfismo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add construtores, getters, setters e polimorfismo." />
+    <MESSAGE value="Desenvolvimento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento" />
   </component>
 </project>
