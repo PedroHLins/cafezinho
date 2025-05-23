@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="Desenvolvimento">
+    <list default="true" id="46e28a1c-2baa-49c4-9c9b-3aaa27b83bbc" name="Changes" comment="Desenvolvimento do view e encapsulamento da main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/model/entidades/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/up/cs/cafe/view/ViewMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +30,12 @@
     &quot;assignee&quot;: &quot;JhullyKF&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PedroHLins/cafezinho.git&quot;,
-    &quot;accountId&quot;: &quot;9777b0c7-d749-481b-a50e-fa952811aa4b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:PedroHLins/cafezinho.git",
+    "accountId": "f9e4ea7e-2431-4f25-a8ed-ef9cd5255d76"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,15 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jhully.ferreira/Área de Trabalho/cafezinho/cafezinho&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive - Cruzeiro do Sul Educacional - Acadêmico/Área de Trabalho/Programação/Java/Projeto-Java/cafe/cafezinho"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747970613526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desenvolvimento do view e encapsulamento da main">
+      <option name="closed" value="true" />
+      <created>1747973161290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747973161290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add construtores, getters, setters e polimorfismo." />
     <MESSAGE value="Desenvolvimento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento" />
+    <MESSAGE value="Desenvolvimento do view e encapsulamento da main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento do view e encapsulamento da main" />
   </component>
 </project>
